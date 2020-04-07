@@ -1,12 +1,13 @@
 {
-  "author": "Medium Rare",
+  "author": "Prayash M",
   "private": true,
-  "name": "leap",
+  "name": "bakul-books",
   "version": "2.0.0",
   "description": "Software and SaaS Bootstrap Theme",
   "main": "gulpfile.js",
   "scripts": {
     "start": "./node_modules/.bin/gulp",
+    "build": "./node_modules/.bin/gulp build",
     "postinstall": "gulp deps"
   },
   "browserslist": "Safari > 10, Firefox > 40, Chrome > 40, ie >= 11",
